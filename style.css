@@ -1,0 +1,17 @@
+h1{
+    color: rgb(53, 53, 173);
+}
+h3{
+    color: rgb(53, 53, 173);
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 8%;
+    border-width: 3px;
+    border-color: rgb(53, 53, 173) ;
+
+}
+body{
+    background-color:#ECF2FF;
+}
